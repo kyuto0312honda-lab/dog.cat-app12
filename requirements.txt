@@ -20,7 +20,6 @@ Markdown
 MarkupSafe
 numpy
 oauthlib
-pillow
 protobuf
 PyYAML
 python-dotenv
